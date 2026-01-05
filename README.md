@@ -36,12 +36,53 @@ I specialise in **C# / .NET**, backend integrations, and pragmatic full-stack so
 ---
 
 ## 📦 Selected Projects
-- **QPrimeLauncher** – Enterprise PowerShell updater for QPS environments  
-- **YourCarePortal** – Production-grade full-stack portal (React + C#)  
-- **ElevatorApp** – Design-pattern showcase (Factory, Strategy, Observer)  
-- **WorkLogix** – Personal productivity & tracking tool (React + ASP.NET Core)
 
-Each repo focuses on **real-world structure**, not toy examples.
+### **TP-Assist** – Flagship Care Worker Management Platform  
+**TurnPointCare Software | Care & Health Industry**
+
+Primary contributor to TurnPointCare’s flagship platform used by care providers to manage **care workers, shifts, availability, and operational workflows**.
+
+- Production-grade system supporting real providers and end users
+- Full-stack development across backend services and frontend features
+- Focused on reliability, clarity, and maintainability in a regulated domain
+- Worked within an evolving codebase balancing delivery and long-term health
+
+**Tech:**  
+C#, ASP.NET Core, REST APIs, SQL Server, React, TypeScript, Azure, CI/CD
+
+---
+
+### **YourCarePortal** – Family & Client Portal  
+Designed and built a full-stack portal enabling families and clients to securely view and interact with care information.
+
+- Sole developer on the portal
+- Clean component design and defensive data handling
+- Integrated with existing backend services
+
+**Tech:**  
+React, TypeScript, ASP.NET Core, REST APIs
+
+---
+
+### **QPrimeLauncher** – Enterprise Client Updater  
+PowerShell-based updater ensuring the correct version of a critical desktop application is installed across controlled environments.
+
+- Logging, configuration management, and graceful error handling
+- Designed for unattended, repeatable execution
+
+**Tech:**  
+PowerShell, Windows, enterprise deployment tooling
+
+---
+
+### **ElevatorApp** – Design Pattern Showcase  
+A deliberately small application demonstrating practical use of classic design patterns.
+
+- Factory, Strategy, and Observer patterns
+- Focus on intent and clarity over over-engineering
+
+**Tech:**  
+C#, not toy examples.
 
 ---
 
