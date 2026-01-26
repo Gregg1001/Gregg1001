@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gregg
 
-Senior-level Full-Stack Software Engineer
-Open to Senior or strong Mid-level roles
+**Senior-level Full-Stack Software Engineer**
+**Open to Senior or strong Mid-level roles**
 
 With years building and supporting production systems across government, enterprise, and regulated environments.
 
