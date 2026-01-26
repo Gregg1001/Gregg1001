@@ -1,8 +1,11 @@
 # 👋 Hi, I’m Gregg
 
-Senior Full-Stack Software Engineer with years building and supporting production systems across government, enterprise, and regulated environments.
+Senior-level Full-Stack Software Engineer
+Open to Senior or strong Mid-level roles
 
-I specialise in **C# / .NET**, backend integrations, and pragmatic full-stack solutions that prioritise **clarity, reliability, and maintainability** over hype.
+With years building and supporting production systems across government, enterprise, and regulated environments.
+
+Senior-level Full-Stack Software Engineer with years building and supporting production systems across government, enterprise, and regulated environments. Comfortable owning complex systems end-to-end while also delivering reliably within established teams.
 
 ---
 
